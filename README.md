@@ -2,6 +2,10 @@
 # BreakSentence-Pipeline
 Pipeline for breaking sentence in text or excel files.
 
+**Pipeline Arechitecture**
+![](https://i.imgur.com/uwhpEbu.png)
+
+
 ## Steps for triggering pipeline
 
 1. Check out to `BreakSentence`  branch
